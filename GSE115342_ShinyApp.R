@@ -1,6 +1,3 @@
-# Homework 5: Shiny
-# Gülnur UZUN
-# Student No: 235009063007
 
 # Load necessary libraries
 library(dplyr)
